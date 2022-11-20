@@ -2,3 +2,6 @@
 .vscode/*
 **/.project
 **/.classpath
+
+**/*.iml
+.idea
